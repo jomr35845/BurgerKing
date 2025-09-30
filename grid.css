@@ -33,8 +33,8 @@ body {
 }
 
 .grid2 div{
-    background:orange;
-    color:white;
+    background:#fff;
+    color:#000;
     font-weight:bold;
     padding:10px;
     border-radius:5px;

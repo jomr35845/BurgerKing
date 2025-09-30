@@ -35,3 +35,31 @@ iframe{
     overflow: scroll;
     
 }
+img{
+    width: 100%;
+}
+
+.radios{
+    background: #F5DDDE;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.tl{
+    text-align: left;
+}
+.pb{
+    margin-bottom: 16px;
+}
+.pt{
+    margin-top: 16px;
+}
+.stt{
+    color: #002D82;
+}
+.st{
+    color: #5b61a1;
+}
+p{
+    font-size: 17px;
+}
